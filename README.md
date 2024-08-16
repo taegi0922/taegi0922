@@ -1,7 +1,12 @@
 ## Hi there 👋
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=Taegi%20KIM&animation=fadeIn&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=Taegi%20KIM&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저는 앞으로 꾸준히 성장할 개발자 입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
