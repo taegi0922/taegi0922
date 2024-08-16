@@ -25,6 +25,8 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 ProJect </h2> <br> 
     <div>
     <a href="https://github.com/taegi0922/FreeDiving">
      <img src="https://img.shields.io/badge/프리다이빙-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
@@ -37,7 +39,7 @@
     </a>
    </div>
    <span>약 과다 복용 방지를 위한 의약학 전문가와 환자간의 커뮤니케이션 웹 플랫폼</span>
-   
+      </div>  <br> 
 <!--
 **taegi0922/taegi0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
